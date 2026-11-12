@@ -35,4 +35,19 @@ Aplicación desarrollada en Python que extrae el contenido de artículos web y l
 Juego clásico Pong desarrollado en Python utilizando la biblioteca Turtle. Incluye movimiento de paletas, colisiones y marcador de puntos.
 
 🔗 [Ver repositorio](https://github.com/JulioPenaDev/pong-arcade) 
+
+
+
+## 💼 Proyectos profesionales
+
+### ⛪ Iglesia Pentecostés Roca de los Siglos
+
+Landing page desarrollada para un cliente real a través de **TerraMind**.
+
+Proyecto personalizado según los requerimientos del cliente, con múltiples revisiones y modificaciones hasta su aprobación y entrega final.
+
+La página fue publicada y entregada satisfactoriamente al cliente.
+
+🔗 [Ver página web publicada](https://irdlsiglos.com)
+  
   
