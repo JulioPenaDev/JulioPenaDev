@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**JulioPenaDev/JulioPenaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Julio Peña 👋
 
-Here are some ideas to get you started:
+### 🚀 Desarrollador Web Full Stack en formación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bienvenido a mi perfil de GitHub.
+
+Actualmente estoy estudiando el Máster en Desarrollo Web Full Stack en Conquer Blocks.
+
+Me apasiona aprender programación, desarrollar proyectos y crear soluciones digitales.
+
+### 💻 Tecnologías que estoy aprendiendo
+
+- Python 🐍
+- Git y GitHub
+- Desarrollo Web Full Stack
+
+### 🌱 Sobre mí
+
+- 📚 Actualmente estoy ampliando mis conocimientos de programación.
+- 💼 Soy creador de TerraMind, un proyecto de servicios digitales y desarrollo web.
+- 🎯 Mi objetivo es seguir creciendo como desarrollador y construir soluciones útiles.
+  
