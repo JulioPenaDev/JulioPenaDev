@@ -49,5 +49,14 @@ Proyecto personalizado según los requerimientos del cliente, con múltiples rev
 La página fue publicada y entregada satisfactoriamente al cliente.
 
 🔗 [Ver página web publicada](https://irdlsiglos.com)
+
+
+## 🏆 Certificaciones de Conquer Blocks
+
+Certificaciones obtenidas durante mi formación en Desarrollo Web Full Stack.
+
+- 🐍 [Python — 11 de octubre de 2026](certificados/Python%20Inicial.jpg)
+- 🐧 [Linux y la Terminal — 14 de septiembre de 2026](certificados/Certificado%20Linux%20y%20la%20Terminal.png)
+- 🌿 [Git y GitHub — 12 de noviembre de 2026](certificados/Git%20y%20GitHub.png)
   
   
